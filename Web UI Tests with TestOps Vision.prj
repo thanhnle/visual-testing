@@ -3,10 +3,10 @@
    <description>Web UI Tests with TestOps Vision</description>
    <name>Web UI Tests with TestOps Vision</name>
    <tag></tag>
-   <UUID>61a4e87b-8433-4228-8b2d-413770da45ee</UUID>
+   <UUID>973eae9f-8cc8-4c56-a55b-6de5815f1c92</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/giangtong/Documents/katalon/visual-testing-sample/Web UI Tests with TestOps Vision.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\thanh.nle\Katalon Studio\Sample visual - clone by TL\Web UI Tests with TestOps Vision.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
